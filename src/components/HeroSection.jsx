@@ -2,7 +2,6 @@ import video from '../assets/hero.mp4'
 import logo from '../assets/logo.png'
 import hero from '../assets/hero.jpeg'
 import {motion} from 'framer-motion'
-import { MdOpacity } from 'react-icons/md'
 
 export default function HeroSection() {
   return (
